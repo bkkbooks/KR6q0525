@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6q0525/j/v1/juan/0
 seq: 0
 front:
-  text: 浦峰法柱棟禪師語錄序法柱棟禪師目錄卷上上堂示眾拈古頌古牧牛頌四威儀聯芳卷下機緣法語示偈雜偈七言四句五言四句七言八句五言八句像讚書序佛事法派行狀
-  hash: sha256:839d212ed828262ccc0671d694231a54b30883ba19fe1111e1aa4c8a782eef42
+  text: 浦峰法柱棟禪師語録序法柱棟禪師目録卷上上堂示衆拈古頌古牧牛頌四威儀聯芳卷下機緣法語示偈雜偈七言四句五言四句七言八句五言八句像讚書序佛事法派行狀
+  hash: sha256:f477857c386124f1311fdb9a96daa68bc3ac4fd548af76c88f50e3d4ea2c339c
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0525_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 10, content: 目錄, id: KR6q0525_J_000-mulu-2, level: '1'}
@@ -17,4 +17,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J37/J37nB402.xml
     old_id: J37nB402
-hash: sha256:3b4cc6711793cc67631c60c2047c1c3710051bc4cdf543be5f74f2419b968f5d
+hash: sha256:77e71d854c447f6416b79b3336729dcdcfb6dd5617fe0465df1a90615f14e96b
